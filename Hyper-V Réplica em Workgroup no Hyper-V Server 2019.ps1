@@ -358,3 +358,5 @@ Enter-PSSession -ComputerName HYR2
 ## Passo 9 ##
 
 # Toda parte de configuração, habilitação do Hyper-V Réplica no Host de Hyper-V e na máquina virtual será demostrada em vídeo. Os teste do Hyper-V Réplica também será demostrado em vídeo.
+
+Link: dp vídeo: https://youtu.be/qYbL7ehi7lo
