@@ -23,7 +23,7 @@ Install-WindowsFeature -Name File-Services -IncludeManagementTools # Instalaçã
 
 # Adicionar e renomear adaptadores de redes e Desabilitar ipv6 nos adaptadores de redes.
 
-Get-NetAdapterBinding -Name * # Verificas as opções habilitadas nos adaptadores de rede especifico.
+Get-NetAdapterBinding -Name * # Verifica as opções habilitadas nos adaptadores de rede especifico.
 
 Get-NetAdapter -Name "*" | Format-List -Property "Name" # Lista os nomes de todos adaptadores de rede existentes.
 
